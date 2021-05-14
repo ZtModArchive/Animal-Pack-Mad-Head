@@ -1,0 +1,27 @@
+<BFTypedBinder binderType="Aye-Aye_Young_F">
+   <types>
+      <entity>
+         <actor>
+            <animal>
+               <Mammalia>
+                  <Carnivora>
+                     <Ursidae>
+                        <Aye-Aye>
+                           <Aye-Aye_Young>
+                              <Aye-Aye_Young_F/>
+                           </Aye-Aye_Young>
+                        </Aye-Aye>
+                     </Ursidae>
+                  </Carnivora>
+               </Mammalia>
+            </animal>
+         </actor>
+      </entity>
+   </types>
+   <instance>
+      <BFGEntity/>
+   </instance>
+   <shared>
+      <BFAIEntityDataShared b_Male="0"/>
+   </shared>
+</BFTypedBinder>

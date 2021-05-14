@@ -1,0 +1,134 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <Bonobo>Bonobo</Bonobo>
+      <Bonobo_stt>Bonobo</Bonobo_stt>
+      <Bonobo_lower>the Bonobo</Bonobo_lower>
+      <Bonobo_ltt>
+         <color r="255" g="248" b="178">
+            <b>Bonobo</b>
+         </color>
+         <br/>
+         Click to select and then place a Bonobo, A subspecies of the Chimpanzee.
+      </Bonobo_ltt>
+      <!--gift names-->
+      <Bonobo_Gift>Bonobo Backpack</Bonobo_Gift>
+      <Bonobo_Gift_stt>Bonobo Backpack</Bonobo_Gift_stt>
+      <Bonobo_Gift_lower>the Bonobo Backpack</Bonobo_Gift_lower>
+      <Bonobo_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Bonobo Backpack</b>
+         </color>
+         <br/>Guests who enjoy watching the Bonobo will buy this gift.
+      </Bonobo_Gift_ltt>
+</entityname>
+<zoopedia_bonobo>
+ <entry>Bonobo</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/Bonobo/Bonobo_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/endangered.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                      Endangered
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Tropical Rainfroest<br/></color>
+     <img src="ui/icon_biomes/icon_tropicalrainforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Africa<br/></color> 
+     <img src="ui/icon_maplocations/Rainforest_Africa_Central.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: -CLASS- <i>(-CLASS LATIN-)</i><br/>Order: -ORDER- <i>(-ORDER LATIN-)</i><br/>Family: -FAMILY- <i>(-FAMILY LATIN-)</i><br/>Genus: <i>-GENUS-</i><br/>Species: <i>-SPECIES-</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/tropicalrainforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Bonobo Facts</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">It can be called the pygmy chimp.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255"></color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255"></color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255"></color>     
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    To unlock the Bonobo in challenge or campaign games, you must earn a 1-star zoo fame rating for your zoo. 
+   </color>
+   The Bonobo (IPA: /b?'no?bo?/[3], Pan paniscus), until recently usually called the Pygmy Chimpanzee (and less often the Dwarf or Gracile Chimpanzee),[4] is one of the two species making up the chimpanzee genus, Pan. The other species in genus Pan is Pan troglodytes, or the Common Chimpanzee. Although the name "chimpanzee" is sometimes used to refer to both species together, it is usually understood as referring to the Common Chimpanzee. The Bonobo is endangered, and is found in the wild only in the Democratic Republic of Congo. Along with the Common Chimpanzee, the Bonobo is the closest relative to Humans. Since neither species can swim, it is possible that the formation of the Congo River 1.5-2 million years ago lead to the speciation of the Bonobo, which live south of the river, from the ancestors of the Common Chimpanzee, which live north of the river.[5]
+German anatomist Ernst Schwarz is credited with having discovered the Bonobo in 1928, based on his analysis of a skull in the Tervuren museum in Belgium that had been thought to have belonged to a juvenile chimpanzee. Schwarz published his findings in 1929. In 1933, American anatomist Harold Coolidge offered a more detailed description of the Bonobo, and elevated it to species status. The species is distinguished by relatively long legs, parted hair on their head, a matriarchal culture.
+
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Content provided courtesy of <color r="255" g="231" b="135">www.wikipedia.org</color> Bonobo was coded and skinned by Mad Head for ECR's Expansion Pack Zoo Tycoon 2 : Ultimate Africa.
+  </cell>
+ </text>
+</zoopedia_bonobo>
+</ZT2Strings>

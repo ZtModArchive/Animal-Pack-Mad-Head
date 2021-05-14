@@ -1,0 +1,32 @@
+<BFTypedBinder binderType="Topi_Young_F">
+   <types>
+      <entity>
+         <actor>
+            <animal>
+               <Mammalia>
+                  <Artiodactyla>
+                     <Bovidae>
+                        <Topi>
+                           <Topi_Young>
+                              <Topi_Young_F/>
+                           </Topi_Young>
+                        </Topi>
+                     </Bovidae>
+                  </Artiodactyla>
+               </Mammalia>
+            </animal>
+         </actor>
+      </entity>
+   </types>
+   <instance>
+      <BFGEntity/>
+   </instance>
+   <shared>
+      <UIToggleButton template="adopt">
+         <on>
+            <event msg="ZT_SETPLACEMENTOBJECT" data="BFString" string="Topi_Young_F"/>
+         </on>
+      </UIToggleButton>
+      <BFAIEntityDataShared b_Male="0"/>
+   </shared>
+</BFTypedBinder>

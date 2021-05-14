@@ -1,0 +1,7 @@
+<BFParticleDictionary>
+   <LeopardPersianEmote>
+      <Conditions>
+         <BFParticleDefinition xmlFile="entities\units\animals\LeopardPersian\LeopardPersianEmote.xml" removeTime="10.0"/>
+      </Conditions>
+   </LeopardPersianEmote>
+</BFParticleDictionary>

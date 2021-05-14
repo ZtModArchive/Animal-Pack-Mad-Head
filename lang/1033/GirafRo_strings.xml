@@ -1,0 +1,135 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <GirafRo>Rothschild Giraffe</GirafRo>
+      <GirafRo_stt>Rothschild Giraffe</GirafRo_stt>
+      <GirafRo_lower>the Rothschild Giraffe</GirafRo_lower>
+      <GirafRo_ltt>
+         <color r="255" g="248" b="178">
+            <b>Rothschild Giraffe</b>
+         </color>
+         <br/>
+         Click to select and then place a Rothschild Giraffe, an endangered species of giraffe.
+      </GirafRo_ltt>
+      <!--gift names-->
+      <GirafRo_Gift>Rothschild Giraffe Backpack</GirafRo_Gift>
+      <GirafRo_Gift_stt>Rothschild Giraffe Backpack</GirafRo_Gift_stt>
+      <GirafRo_Gift_lower>the Rothschild Giraffe Backpack</GirafRo_Gift_lower>
+      <GirafRo_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Rothschild Giraffe Backpack</b>
+         </color>
+         <br/>Guests who enjoy watching the Rothschild Giraffe will buy this gift.
+      </GirafRo_Gift_ltt>
+</entityname>
+<zoopedia_girafro>
+ <entry>Giraffe, Rothschild</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/GirafRo/GirafRo_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/endangered.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                      Endangered
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Savannah<br/></color>
+     <img src="ui/icon_biomes/icon_savannah.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">East Africa<br/></color> 
+     <img src="ui/icon_maplocations/savannah_africa_east.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: Mammal
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/savannah_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Rothschild Giraffe Facts</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">They are endangered</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255"></color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255"></color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255"></color>     
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    To unlock the Rothschild Giraffe in challenge or campaign games, you must earn a 1-star zoo fame rating for your zoo. 
+   </color>
+   The Rothschild Giraffe, named after Tring Zoological Museum's founder, Lord Walter Rothschild[1], also known as the Baringo Giraffe, after the Lake Baringo area of Kenya[2], or as the Ugandan Giraffe, is the second most endangered giraffe subspecies with only a few hundred members.[3] All of those that are living in the wild are in protected areas in Kenya and Uganda.[3] (Recently it has been proposed that the Rothschild Giraffe is actually a separate species from other giraffes and not a giraffe subspecies.[3]) While giraffes in general are classified as Lower Risk: Conservation Dependent, the Rothschild Giraffe is at particular risk of hybridisation, as the population is so limited in numbers. There are very few locations where the Rothschild Giraffe can be seen in the wild, with notable spots being Lake Nakuru National Park in Kenya[4] and Murchison Falls National Park[5] in Northern Uganda. There are various captive breeding programmes in place - most notably at The Giraffe Centre in Nairobi, Kenya, and at Woburn Safari Park in Bedfordshire, England - which aim to expand the genetic gene-pool in the wild population of the Rothschild Giraffe.
+
+Rothschild Giraffes are easily distinguishable from other subspecies. The most obvious sign is in the colouring of the coat, or pelt. Where the Reticulated Giraffe has very clearly defined dark patches with bright whitish channels between them, the Rothschild Giraffe more closely resembles the Masai Giraffe. However, when compared to the Masai Giraffe, the Rothschild subspecies is paler, the orange-brown patches are less jagged and sharp in shape and the connective channel is of a creamier hue compared to that seen on the Reticulated Giraffe. In addition, the Rothschild Giraffe displays no markings on the lower leg, giving the impression that it is wearing white stockings
+
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Content provided courtesy of <color r="255" g="231" b="135">www.wikipedia.org</color> Rothschild Giraffe created by Mad Head.
+  </cell>
+ </text>
+</zoopedia_girafro>
+</ZT2Strings>

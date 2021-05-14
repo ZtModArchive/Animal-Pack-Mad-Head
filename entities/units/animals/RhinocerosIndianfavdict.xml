@@ -1,0 +1,7 @@
+<BFParticleDictionary>
+   <RhinocerosIndianEmote>
+      <Conditions>
+         <BFParticleDefinition xmlFile="entities\units\animals\RhinocerosIndian\RhinocerosIndianEmote.xml" removeTime="10.0"/>
+      </Conditions>
+   </RhinocerosIndianEmote>
+</BFParticleDictionary>

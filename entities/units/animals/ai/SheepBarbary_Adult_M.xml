@@ -1,0 +1,35 @@
+<BFTypedBinder binderType="SheepBarbary_Adult_M">
+   <types>
+      <entity>
+         <actor>
+            <animal>
+               <Mammalia>
+                  <Artiodactyla>
+                     <Bovidae>
+                        <SheepBarbary>
+                           <SheepBarbary_Adult>
+                              <SheepBarbary_Adult_M/>
+                           </SheepBarbary_Adult>
+                        </SheepBarbary>
+                     </Bovidae>
+                  </Artiodactyla>
+               </Mammalia>
+            </animal>
+         </actor>
+      </entity>
+   </types>
+   <instance>
+      <BFGEntity/>
+   </instance>
+   <shared>
+      <UIToggleButton template="adopt">
+         <UIAspect>
+            <default image="entities\units\animals\SheepBarbary\SheepBarbary_Adult_M_icon.dds"/>
+         </UIAspect>
+         <on>
+            <event msg="ZT_SETPLACEMENTOBJECT" data="BFString" string="SheepBarbary_Adult_M"/>
+         </on>
+      </UIToggleButton>
+      <BFAIEntityDataShared b_Male="1" f_adoptCount="rand(1,2)"/>
+   </shared>
+</BFTypedBinder>

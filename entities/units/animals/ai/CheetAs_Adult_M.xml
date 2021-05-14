@@ -1,0 +1,41 @@
+<BFTypedBinder binderType="CheetAs_Adult_M">
+   <types>
+      <entity>
+         <actor>
+            <animal>
+               <Mammalia>
+                  <Carnivora>
+                     <Felidae>
+                        <CheetAs>
+                           <CheetAs_Adult>
+                              <CheetAs_Adult_M/>
+                           </CheetAs_Adult>
+                        </CheetAs>
+                     </Felidae>
+                  </Carnivora>
+               </Mammalia>
+            </animal>
+         </actor>
+      </entity>
+   </types>
+   <instance>
+      <BFGEntity/>
+   </instance>
+   <shared>
+      <UIToggleButton template="adopt">
+         <on>
+            <event msg="ZT_SETPLACEMENTOBJECT" data="BFString" string="CheetAs_Adult_M"/>
+         </on>
+      </UIToggleButton>
+      <BFAIEntityDataShared b_Male="1" f_adoptCount="rand(1,1)"/>
+   </shared>
+   <binder>
+      <BFNamedBinder binderName="mainObj">
+         <instance>
+            <BFPhysObj>
+               <BFActorComponent actorfile="entities/units/animals/CheetAs/CheetAs_Adult_F.bfm"/>
+            </BFPhysObj>
+         </instance>
+      </BFNamedBinder>
+   </binder>
+</BFTypedBinder>

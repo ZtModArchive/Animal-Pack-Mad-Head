@@ -1,0 +1,32 @@
+<BFTypedBinder binderType="SheepBarbary_Young_F">
+   <types>
+      <entity>
+         <actor>
+            <animal>
+               <Mammalia>
+                  <Artiodactyla>
+                     <Bovidae>
+                        <SheepBarbary>
+                           <SheepBarbary_Young>
+                              <SheepBarbary_Young_F/>
+                           </SheepBarbary_Young>
+                        </SheepBarbary>
+                     </Bovidae>
+                  </Artiodactyla>
+               </Mammalia>
+            </animal>
+         </actor>
+      </entity>
+   </types>
+   <instance>
+      <BFGEntity/>
+   </instance>
+   <shared>
+      <UIToggleButton template="adopt">
+         <on>
+            <event msg="ZT_SETPLACEMENTOBJECT" data="BFString" string="SheepBarbary_Young_F"/>
+         </on>
+      </UIToggleButton>
+      <BFAIEntityDataShared b_Male="0"/>
+   </shared>
+</BFTypedBinder>

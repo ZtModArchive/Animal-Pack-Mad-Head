@@ -1,0 +1,34 @@
+﻿<BFTypedBinder binderType="RhinocerosIndian_Adult_F">
+	<types>
+		<entity>
+			<actor>
+				<animal>
+					<Mammalia>
+						<Perissodactyla>
+							<Rhinocerotidae>
+								<RhinocerosIndian>
+									<RhinocerosIndian_Adult>
+										<RhinocerosIndian_Adult_F />
+									</RhinocerosIndian_Adult>
+								</RhinocerosIndian>
+							</Rhinocerotidae>
+						</Perissodactyla>
+					</Mammalia>
+				</animal>
+			</actor>
+		</entity>
+	</types>
+	<instance>
+		<BFGEntity />
+	</instance>
+	<shared>
+		<BFAIEntityDataShared b_Male="0" f_adoptCount="rand(1,1)" />
+	</shared>
+	<binder>
+		<BFBinder required="1">
+			<instance>
+				<BFAIEntityDataInstance b_Pregnant="false" />
+			</instance>
+		</BFBinder>
+	</binder>
+</BFTypedBinder>

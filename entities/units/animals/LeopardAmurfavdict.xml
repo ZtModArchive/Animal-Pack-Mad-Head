@@ -1,0 +1,7 @@
+<BFParticleDictionary>
+   <LeopardAmurEmote>
+      <Conditions>
+         <BFParticleDefinition xmlFile="entities\units\animals\LeopardAmur\LeopardAmurEmote.xml" removeTime="10.0"/>
+      </Conditions>
+   </LeopardAmurEmote>
+</BFParticleDictionary>

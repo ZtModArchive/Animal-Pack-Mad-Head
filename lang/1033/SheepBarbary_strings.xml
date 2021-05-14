@@ -1,0 +1,132 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <SheepBarbary>Barbary Sheep</SheepBarbary>
+      <SheepBarbary_stt>Barbary Sheep</SheepBarbary_stt>
+      <SheepBarbary_lower>the Barbary Sheep</SheepBarbary_lower>
+      <SheepBarbary_ltt>
+         <color r="255" g="248" b="178">
+            <b>Barbary Sheep</b>
+         </color>
+         <br/>
+         Click to select and then place a Barbary Sheep, a bovid of the alpine regions in Africa.
+      </SheepBarbary_ltt>
+      <!--gift names-->
+      <SheepBarbary_Gift>Barbary Sheep Backpack</SheepBarbary_Gift>
+      <SheepBarbary_Gift_stt>Barbary Sheep Backpack</SheepBarbary_Gift_stt>
+      <SheepBarbary_Gift_lower>the Barbary Sheep Backpack</SheepBarbary_Gift_lower>
+      <SheepBarbary_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Barbary Sheep Backpack</b>
+         </color>
+         <br/>Guests who enjoy watching the Barbary Sheep will buy this gift.
+      </SheepBarbary_Gift_ltt>
+</entityname>
+<zoopedia_sheepbarbary>
+ <entry>Sheep, Barbary</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/SheepBarbary/SheepBarbary_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/endangered.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                      Endangered
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Alpine<br/></color>
+     <img src="ui/icon_biomes/icon_alpine.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Africa<br/></color> 
+     <img src="ui/icon_maplocations/alpine_africa_northeast.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: Mammal <i>(Mammalia)</i><br/>Order: Herbivore <i>(Herbivora)</i><br/>Family: Bovids <i>(Bovidae)</i><br/>Genus: <i>Sheep</i><br/>Species: <i>B. Sheep</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/alpine_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Barbary Sheep Facts</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">The Barbary Sheep lives high in the mountains of Africa.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">The Barbary Sheep is Endangered.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255"></color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255"></color>     
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    To unlock the SheepBarbary in challenge or campaign games, you must earn a 2-star zoo fame rating for your zoo. 
+   </color>
+  The Barbary Sheep (Ammotragus lervia, also called Aoudad, Arui and Waddan (in Libya)) is a species of Caprinae (goat-antelope) found in rocky mountains in North Africa. Six subspecies have been described. Although it is rare in its native North Africa, it has been introduced to North America, southern Europe and elsewhere.
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Content provided courtesy of <color r="255" g="231" b="135">www.wikipedia.org</color> Barbary Sheep created by Mad Head. For my expansion pack Zoo tycoon 2 : Amazing Mammals.
+  </cell>
+ </text>
+</zoopedia_sheepbarbary>
+</ZT2Strings>

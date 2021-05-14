@@ -1,0 +1,32 @@
+<BFTypedBinder binderType="LeopardPersian_Young_F">
+   <types>
+      <entity>
+         <actor>
+            <animal>
+               <Mammalia>
+                  <Carnivora>
+                     <Felidae>
+                        <LeopardPersian>
+                           <LeopardPersian_Young>
+                              <LeopardPersian_Young_F/>
+                           </LeopardPersian_Young>
+                        </LeopardPersian>
+                     </Felidae>
+                  </Carnivora>
+               </Mammalia>
+            </animal>
+         </actor>
+      </entity>
+   </types>
+   <instance>
+      <BFGEntity/>
+   </instance>
+   <shared>
+      <UIToggleButton template="adopt">
+         <on>
+            <event msg="ZT_SETPLACEMENTOBJECT" data="BFString" string="LeopardPersian_Young_F"/>
+         </on>
+      </UIToggleButton>
+      <BFAIEntityDataShared b_Male="0"/>
+   </shared>
+</BFTypedBinder>

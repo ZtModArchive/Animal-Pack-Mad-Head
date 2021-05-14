@@ -1,0 +1,34 @@
+<BFTypedBinder binderType="FlamingoJamess_Adult_F">
+   <types>
+      <entity>
+         <actor>
+            <animal>
+               <Aves>
+                  <Phoenicopteriformes>
+                     <Phoenicopteridae>
+                        <FlamingoJamess>
+                           <FlamingoJamess_Adult>
+                              <FlamingoJamess_Adult_F/>
+                           </FlamingoJamess_Adult>
+                        </FlamingoJamess>
+                     </Phoenicopteridae>
+                  </Phoenicopteriformes>
+               </Aves>
+            </animal>
+         </actor>
+      </entity>
+   </types>
+   <instance>
+      <BFGEntity/>
+   </instance>
+   <shared>
+      <BFAIEntityDataShared b_Male="0" f_adoptCount="rand(1,4)"/>
+   </shared>
+   <binder>
+      <BFBinder required="1">
+         <instance>
+            <BFAIEntityDataInstance b_Pregnant="false"/>
+         </instance>
+      </BFBinder>
+   </binder>
+</BFTypedBinder>

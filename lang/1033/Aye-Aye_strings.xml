@@ -1,0 +1,132 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <Aye-Aye>Aye-Aye</Aye-Aye>
+      <Aye-Aye_stt>Aye-Aye</Aye-Aye_stt>
+      <Aye-Aye_lower>the Aye-Aye</Aye-Aye_lower>
+      <Aye-Aye_ltt>
+         <color r="255" g="248" b="178">
+            <b>Aye-Aye</b>
+         </color>
+         <br/>
+         Click to select and then place a Aye-Aye, a mysterious creature.
+      </Aye-Aye_ltt>
+      <!--gift names-->
+      <Aye-Aye_Gift>Aye-Aye Backpack</Aye-Aye_Gift>
+      <Aye-Aye_Gift_stt>Aye-Aye Backpack</Aye-Aye_Gift_stt>
+      <Aye-Aye_Gift_lower>the Aye-Aye Backpack</Aye-Aye_Gift_lower>
+      <Aye-Aye_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Aye-Aye Backpack</b>
+         </color>
+         <br/>Guests who enjoy watching the Aye-Aye will buy this gift.
+      </Aye-Aye_Gift_ltt>
+</entityname>
+<zoopedia_aye-aye>
+ <entry>Aye-Aye</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/Aye-Aye/Aye-Aye_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                      Vulnerable
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Tropical Rainforest<br/></color>
+     <img src="ui/icon_biomes/icon_tropicalrainforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">South East Asia<br/></color> 
+     <img src="ui/icon_maplocations/south_east_asia.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: Mammal <i>(Mammalia)</i><br/>Order: Primates <i>(Primates)</i><br/>Family: <i>(Daubentoniidae)</i><br/>Genus: <i>Daubentonia</i><br/>Species: <i>Aye-Aye</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/tropicalrainforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Aye-Aye Facts</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Classified as Endangered.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">People used to think that this animal was the spirits of dead people.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255"></color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255"></color>     
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    To unlock the Aye-Aye in challenge or campaign games, you must earn a fameneeded-star zoo fame rating for your zoo. 
+   </color>
+  The bizarre aye-aye is one of the most unusual primates on the planet, so much so that it was originally classified as a rodent (2). The thick coat is slate grey to brown with white flecks from the long guard hairs, which are lighter at the tip (2). The face is paler than the rest of the body with large, leathery ears and prominent, yellowish-orange eyes (2). The hands are the most striking feature of this animal; the elongated, thin fingers have curved, claw-like nails (4) and the third digit is extremely thin so that it appears to be little more than skin and bone (2). The aye-aye is the largest nocturnal primate and has a long bushy tail.
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Content provided courtesy of <color r="255" g="231" b="135">www.arkive.org</color> Aye-Aye created by Mad Head.
+  </cell>
+ </text>
+</zoopedia_aye-aye>
+</ZT2Strings>

@@ -1,0 +1,132 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <Cassowary>Cassowary</Cassowary>
+      <Cassowary_stt>Cassowary</Cassowary_stt>
+      <Cassowary_lower>the Cassowary</Cassowary_lower>
+      <Cassowary_ltt>
+         <color r="255" g="248" b="178">
+            <b>Cassowary</b>
+         </color>
+         <br/>
+         Click to select and then place a Cassowary, a large flightless Australian bird.
+      </Cassowary_ltt>
+      <!--gift names-->
+      <Cassowary_Gift>Cassowary Backpack</Cassowary_Gift>
+      <Cassowary_Gift_stt>Cassowary Backpack</Cassowary_Gift_stt>
+      <Cassowary_Gift_lower>the Cassowary Backpack</Cassowary_Gift_lower>
+      <Cassowary_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Cassowary Backpack</b>
+         </color>
+         <br/>Guests who enjoy watching the Cassowary will buy this gift.
+      </Cassowary_Gift_ltt>
+</entityname>
+<zoopedia_cassowary>
+ <entry>Cassowary</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/Cassowary/Cassowary_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/LowRisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                      Low Risk
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Scrub<br/></color>
+     <img src="ui/icon_biomes/icon_scrub.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Australia<br/></color> 
+     <img src="ui/icon_maplocations/scrub_australia.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: Aves <i>(Aves)</i><br/>Order: Herbivore <i>(Herbivorera)</i><br/>Family: <i>(Flightless Birds)</i><br/>Genus: <i></i><br/>Species: <i></i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/scrub_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Cassowary Facts</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">This is one of many flightless Australian Birds.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">There are 2 main species of Cassowary.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">They have got a hard kick.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255"></color>     
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    To unlock the Cassowary in challenge or campaign games, you must earn a 2-star zoo fame rating for your zoo. 
+   </color>
+   Cassowaries (genus Casuarius) are very large flightless birds native to the tropical forests of New Guinea and northeastern Australia. The Cassowary is the second largest flightless bird on the planet, second only to the ostrich. The diet of the Cassowary mainly consists of fruits, though it eats fungi, snails and insects. Cassowaries are very shy, but when disturbed, they are capable of inflicting fatal injuries to an adult human.
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Content provided courtesy of <color r="255" g="231" b="135">Wikipedia</color> Cassowary created by Mad Head.
+  </cell>
+ </text>
+</zoopedia_cassowary>
+</ZT2Strings>

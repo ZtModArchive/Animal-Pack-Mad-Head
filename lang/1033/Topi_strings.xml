@@ -1,0 +1,132 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <Topi>Topi</Topi>
+      <Topi_stt>Topi</Topi_stt>
+      <Topi_lower>the Topi</Topi_lower>
+      <Topi_ltt>
+         <color r="255" g="248" b="178">
+            <b>Topi</b>
+         </color>
+         <br/>
+         Click to select and then place a Topi, an African ungulate.
+      </Topi_ltt>
+      <!--gift names-->
+      <Topi_Gift>Topi Backpack</Topi_Gift>
+      <Topi_Gift_stt>Topi Backpack</Topi_Gift_stt>
+      <Topi_Gift_lower>the Topi Backpack</Topi_Gift_lower>
+      <Topi_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Topi Backpack</b>
+         </color>
+         <br/>Guests who enjoy watching the Topi will buy this gift.
+      </Topi_Gift_ltt>
+</entityname>
+<zoopedia_topi>
+ <entry>Topi</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/Topi/Topi_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                      Low Risk
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Savannah<br/></color>
+     <img src="ui/icon_biomes/icon_savannah.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">South Africa<br/></color> 
+     <img src="ui/icon_maplocations/southafrica.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: Mammal <i>(Mammalia)</i><br/>Order: Artiodactyla <i></i><br/>Family: Bovidae <i></i><br/>Genus: <i>Damaliscus</i><br/>Species: <i>Topi</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/biomelink_zoopedia_savannah.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Topi Facts</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">The coat varies in colour from tan to deep reddish or even purple-brown.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255"></color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255"></color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255"></color>     
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    To unlock the Topi in challenge or campaign games, you must earn a 2-star zoo fame rating for your zoo. 
+   </color>
+   Topi are most famous for their sentry position, in which a single animal will stand on a termite mound for hours surveying the surrounding territory.  Termite mounds are also a favourite resting area, and topi may even doze off while lying on these raised platforms.  Adult males hold territories which vary dramatically in size from 1-3 hectares in southern Africa to a recorded 400 hectares in Kruger National Park.  Generally, smaller territories are only held briefly during the breeding season.  A male will mark his personal range with urine, dung piles, digging up the soil with his horns, and by smearing secretions from his preorbital glands on vegetation.  Competition betwen rival males consists primarily of posturing and ritualistic sparring with the horns, which involves crashing their horns together as both lunge forward to their knees.  During the breeding season, a territorial bull is readily recognized by his erect posture, with his head held high above his body.  If alarmed suddenly, topi may actually jump over one another in their haste to flee the area.  While they generally run at a jog, if pressed they may reach speeds in excess of 70 kmph / 44 mph.  While on the move, topi have the odd habit of bobbing their heads, which has been suggested to be a "let's go!" motion derived from a threat gesture. 
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Content provided courtesy of <color r="255" g="231" b="135">www.ultimateungulate.com</color> Topi created by MAD HEAD.
+  </cell>
+ </text>
+</zoopedia_topi>
+</ZT2Strings>

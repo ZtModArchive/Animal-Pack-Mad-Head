@@ -1,0 +1,134 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <KingCheetah>King Cheetah</KingCheetah>
+      <KingCheetah_stt>King Cheetah</KingCheetah_stt>
+      <KingCheetah_lower>the King Cheetah</KingCheetah_lower>
+      <KingCheetah_ltt>
+         <color r="255" g="248" b="178">
+            <b>King Cheetah</b>
+         </color>
+         <br/>
+         Click to select and then place a King Cheetah, a rare mutation of the African cheetah.
+      </KingCheetah_ltt>
+      <!--gift names-->
+      <KingCheetah_Gift>King Cheetah Backpack</KingCheetah_Gift>
+      <KingCheetah_Gift_stt>King Cheetah Backpack</KingCheetah_Gift_stt>
+      <KingCheetah_Gift_lower>the King Cheetah Backpack</KingCheetah_Gift_lower>
+      <KingCheetah_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>King Cheetah Backpack</b>
+         </color>
+         <br/>Guests who enjoy watching the King Cheetah will buy this gift.
+      </KingCheetah_Gift_ltt>
+</entityname>
+<zoopedia_kingcheetah>
+ <entry>Cheetah, King</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/KingCheetah/KingCheetah_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/endangered.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                      Endangered
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Savannah<br/></color>
+     <img src="ui/icon_biomes/icon_savannah.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Africa<br/></color> 
+     <img src="ui/icon_maplocations/africa.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: Mammal <i>(Mammalia)</i><br/>Order: Carnivore <i>(Carnivora)</i><br/>Family: Big Cat <i>(Panthera)</i><br/>Genus: <i>Mutation</i><br/>Species: <i>King Cheetah</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/savannah_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun King Cheetah Facts</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">This is a rare mutation.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255"></color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255"></color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255"></color>     
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    To unlock the KingCheetah in challenge or campaign games, you must earn a 2-star zoo fame rating for your zoo. 
+   </color>
+   The king cheetah is a rare mutation of cheetah characterized by a distinct pelt pattern. It was first noted in Zimbabwe in 1926. In 1927, the naturalist Reginald Innes Pocock declared it a separate species, but reversed this decision in 1939 due to lack of evidence. In 1928, a skin purchased by Lord Rothschild was found to be intermediate in pattern between the king cheetah and spotted cheetah and Abel Chapman considered it to be a color form of the spotted cheetah. Twenty-two such skins were found between 1926 and 1974. Since 1927, the king cheetah was reported five more times in the wild. Although strangely marked skins had come from Africa, a live king cheetah was not photographed until 1974 in South Africa's Kruger National Park. Cryptozoologists Paul and Lena Bottriell photographed one during an expedition in 1975. They also managed to obtain stuffed specimens. It appeared larger than a spotted cheetah and its fur had a different texture. There was another wild sighting in 1986—the first in seven years. By 1987, thirty-eight specimens had been recorded, many from pelts.
+
+
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Content provided courtesy of <color r="255" g="231" b="135">Wikipedia</color> King Cheetah created by MAD HEAD.
+  </cell>
+ </text>
+</zoopedia_kingcheetah>
+</ZT2Strings>

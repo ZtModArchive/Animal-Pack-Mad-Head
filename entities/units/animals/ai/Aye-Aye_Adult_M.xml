@@ -1,0 +1,32 @@
+<BFTypedBinder binderType="Aye-Aye_Adult_M">
+   <types>
+      <entity>
+         <actor>
+            <animal>
+               <Mammalia>
+                  <Carnivora>
+                     <Ursidae>
+                        <Aye-Aye>
+                           <Aye-Aye_Adult>
+                              <Aye-Aye_Adult_M/>
+                           </Aye-Aye_Adult>
+                        </Aye-Aye>
+                     </Ursidae>
+                  </Carnivora>
+               </Mammalia>
+            </animal>
+         </actor>
+      </entity>
+   </types>
+   <instance>
+      <BFGEntity/>
+   </instance>
+   <shared>
+      <UIToggleButton template="adopt">
+         <on>
+            <event msg="ZT_SETPLACEMENTOBJECT" data="BFString" string="Aye-Aye_Adult_M"/>
+         </on>
+      </UIToggleButton>
+      <BFAIEntityDataShared b_Male="1" f_adoptCount="rand(1,1)"/>
+   </shared>
+</BFTypedBinder>

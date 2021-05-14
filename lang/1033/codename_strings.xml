@@ -1,0 +1,136 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <LionBarbary>Barbary Lion</LionBarbary>
+      <LionBarbary_stt>Barbary Lion</LionBarbary_stt>
+      <LionBarbary_lower>the Barbary Lion</LionBarbary_lower>
+      <LionBarbary_ltt>
+         <color r="255" g="248" b="178">
+            <b>Barbary Lion</b>
+         </color>
+         <br/>
+         Click to select and then place a Barbary Lion, this lion is currently extinct in the wild.
+      </LionBarbary_ltt>
+      <!--gift names-->
+      <LionBarbary_Gift>Barbary Lion Backpack</LionBarbary_Gift>
+      <LionBarbary_Gift_stt>Barbary Lion Backpack</LionBarbary_Gift_stt>
+      <LionBarbary_Gift_lower>the Barbary Lion Backpack</LionBarbary_Gift_lower>
+      <LionBarbary_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Barbary Lion Backpack</b>
+         </color>
+         <br/>Guests who enjoy watching the Barbary Lion will buy this gift.
+      </LionBarbary_Gift_ltt>
+</entityname>
+<zoopedia_lionbarbary>
+ <entry>LionBarbary</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/LionBarbary/LionBarbary_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/critical.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                      Critically Endangered
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Savannah<br/></color>
+     <img src="ui/icon_biomes/icon_savannah.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Africa<br/></color> 
+     <img src="ui/icon_maplocations/africa.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: Mammal <i>(Mammalia)</i><br/>Order: Carnivore <i>(Carnivora)</i><br/>Family: Cats <i>(Felidae)</i><br/>Genus: <i>Panthera</i><br/>Species: <i>P.leo</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/savannah_zoopedia_bimoebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Barbary Lion Facts</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">In the Middle Ages, the lions kept in the menagerie at the Tower of London were Barbary lions.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">In the 19th century and the early 20th century Barbary lions were often kept in zoos and circus menageries.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Barbary Lions are extinct in the wild.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">In zoos they are cross bred with normal African lions.</color>     
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    To unlock the LionBarbary in challenge or campaign games, you must earn a 3-star zoo fame rating for your zoo. 
+   </color>
+   The Barbary Lion, Atlas lion or Nubian lion (Panthera leo leo) is a subspecies of lion that has become extinct in the wild. There are around forty in captivity in Europe, with less than a hundred in zoos around the world.
+The Barbary lion formerly ranged in North Africa from Morocco to Egypt. The last known Barbary lion in the wild was shot in the Atlas Mountains in 1922.[1] The Barbary lion was believed to be extinct in captivity as well. However, possible Barbary lion individuals or descendants have been located in zoos and circus populations within the last three decades.
+The Barbary lion is often considered to be the heaviest of the lion subspecies; the calculated weight for the males is 400-600 lbs (180 to 270 kg) and females 220-400 lbs (100 to 180 kg), approximately the weight of Bengal Tigers. Many experts however believed that such weights are greatly exaggerated and the Barbary lion is perhaps similar in size to the sub-Saharan lion. However, there is no reliable reference about the real size of this subspecies.
+The two other primary predators of northern Africa, the Atlas bear and Barbary Leopard, are now extinct, or close to extinction.
+
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Content provided courtesy of <color r="255" g="231" b="135">www.Wikipedia.org</color> Barbary Lion created by Mad Head.
+  </cell>
+ </text>
+</zoopedia_lionbarbary>
+</ZT2Strings>

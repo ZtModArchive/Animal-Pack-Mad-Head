@@ -1,0 +1,41 @@
+<BFTypedBinder binderType="Bonobo_Adult_M">
+   <types>
+      <entity>
+         <actor>
+            <animal>
+               <Mammalia>
+                  <Primata>
+                     <Pongidae>
+                        <Bonobo>
+                          <Bonobo_Adult>
+                              <Bonobo_Adult_M/>
+                           </Bonobo_Adult>
+                        </Bonobo>
+                     </Pongidae>
+                  </Primata>
+               </Mammalia>
+            </animal>
+         </actor>
+      </entity>
+   </types>
+   <instance>
+      <BFGEntity/>
+   </instance>
+   <shared>
+      <UIToggleButton template="adopt">
+         <on>
+            <event msg="ZT_SETPLACEMENTOBJECT" data="BFString" string="Bonobo_Adult_M"/>
+         </on>
+      </UIToggleButton>
+      <BFAIEntityDataShared b_Male="1" f_adoptCount="rand(1,2)"/>
+   </shared>
+   <binder>
+      <BFNamedBinder binderName="mainObj">
+         <instance>
+            <BFPhysObj>
+               <BFActorComponent actorfile="entities/units/animals/Bonobo/Bonobo_Adult_F.bfm" scale="1.30"/>
+            </BFPhysObj>
+         </instance>
+      </BFNamedBinder>
+   </binder>
+</BFTypedBinder>

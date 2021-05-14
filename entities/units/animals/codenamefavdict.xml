@@ -1,0 +1,7 @@
+<BFParticleDictionary>
+   <codenameEmote>
+      <Conditions>
+         <BFParticleDefinition xmlFile="entities\units\animals\codename\codenameEmote.xml" removeTime="10.0"/>
+      </Conditions>
+   </codenameEmote>
+</BFParticleDictionary>

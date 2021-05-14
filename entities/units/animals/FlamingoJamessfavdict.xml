@@ -1,0 +1,7 @@
+<BFParticleDictionary>
+   <FlamingoJamessEmote>
+      <Conditions>
+         <BFParticleDefinition xmlFile="entities\units\animals\FlamingoJamess\FlamingoJamessEmote.xml" removeTime="10.0"/>
+      </Conditions>
+   </FlamingoJamessEmote>
+</BFParticleDictionary>

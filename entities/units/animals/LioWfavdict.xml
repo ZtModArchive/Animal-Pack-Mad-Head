@@ -1,0 +1,7 @@
+<BFParticleDictionary>
+   <LioWEmote>
+      <Conditions>
+         <BFParticleDefinition xmlFile="entities\units\animals\LioW\LioWEmote.xml" removeTime="10.0"/>
+      </Conditions>
+   </LioWEmote>
+</BFParticleDictionary>

@@ -1,0 +1,7 @@
+<BFParticleDictionary>
+   <KingCheetahEmote>
+      <Conditions>
+         <BFParticleDefinition xmlFile="entities\units\animals\KingCheetah\KingCheetahEmote.xml" removeTime="10.0"/>
+      </Conditions>
+   </KingCheetahEmote>
+</BFParticleDictionary>

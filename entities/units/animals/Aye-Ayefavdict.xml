@@ -1,0 +1,7 @@
+<BFParticleDictionary>
+   <Aye-AyeEmote>
+      <Conditions>
+         <BFParticleDefinition xmlFile="entities\units\animals\Aye-Aye\Aye-AyeEmote.xml" removeTime="10.0"/>
+      </Conditions>
+   </Aye-AyeEmote>
+</BFParticleDictionary>

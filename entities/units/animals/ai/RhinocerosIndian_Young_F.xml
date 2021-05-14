@@ -1,0 +1,32 @@
+<BFTypedBinder binderType="RhinocerosIndian_Young_F">
+   <types>
+      <entity>
+         <actor>
+            <animal>
+               <Mammalia>
+                  <Perissodactyla>
+                     <Rhinocerotidae>
+                        <RhinocerosIndian>
+                           <RhinocerosIndian_Young>
+                              <RhinocerosIndian_Young_F/>
+                           </RhinocerosIndian_Young>
+                        </RhinocerosIndian>
+                     </Rhinocerotidae>
+                  </Perissodactyla>
+               </Mammalia>
+            </animal>
+         </actor>
+      </entity>
+   </types>
+   <instance>
+      <BFGEntity/>
+   </instance>
+   <shared>
+      <UIToggleButton template="adopt">
+         <on>
+            <event msg="ZT_SETPLACEMENTOBJECT" data="BFString" string="RhinocerosIndian_Young_F"/>
+         </on>
+      </UIToggleButton>
+      <BFAIEntityDataShared b_Male="0"/>
+   </shared>
+</BFTypedBinder>

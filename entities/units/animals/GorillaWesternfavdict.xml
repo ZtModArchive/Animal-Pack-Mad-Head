@@ -1,0 +1,7 @@
+<BFParticleDictionary>
+   <GorillaWesternEmote>
+      <Conditions>
+         <BFParticleDefinition xmlFile="entities\units\animals\GorillaWestern\GorillaWesternEmote.xml" removeTime="10.0"/>
+      </Conditions>
+   </GorillaWesternEmote>
+</BFParticleDictionary>

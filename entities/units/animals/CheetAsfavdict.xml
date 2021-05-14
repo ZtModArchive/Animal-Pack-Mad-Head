@@ -1,0 +1,7 @@
+<BFParticleDictionary>
+   <CheetAsEmote>
+      <Conditions>
+         <BFParticleDefinition xmlFile="entities\units\animals\CheetAs\CheetAsEmote.xml" removeTime="10.0"/>
+      </Conditions>
+   </CheetAsEmote>
+</BFParticleDictionary>

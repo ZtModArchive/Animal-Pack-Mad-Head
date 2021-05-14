@@ -1,0 +1,132 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <FlamingoJamess>James's Flamingo</FlamingoJamess>
+      <FlamingoJamess_stt>James's Flamingo</FlamingoJamess_stt>
+      <FlamingoJamess_lower>the James's Flamingo</FlamingoJamess_lower>
+      <FlamingoJamess_ltt>
+         <color r="255" g="248" b="178">
+            <b>James's Flamingo</b>
+         </color>
+         <br/>
+         Click to select and then place a James's Flamingo, a small flamingo.
+      </FlamingoJamess_ltt>
+      <!--gift names-->
+      <FlamingoJamess_Gift>James's Flamingo Backpack</FlamingoJamess_Gift>
+      <FlamingoJamess_Gift_stt>James's Flamingo Backpack</FlamingoJamess_Gift_stt>
+      <FlamingoJamess_Gift_lower>the James's Flamingo Backpack</FlamingoJamess_Gift_lower>
+      <FlamingoJamess_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>James's Flamingo Backpack</b>
+         </color>
+         <br/>Guests who enjoy watching the James's Flamingo will buy this gift.
+      </FlamingoJamess_Gift_ltt>
+</entityname>
+<zoopedia_flamingojamess>
+ <entry>Flamingo, James's</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/FlamingoJamess/FlamingoJamess_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                      Low Risk
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Grassland<br/></color>
+     <img src="ui/icon_biomes/icon_grassland.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Europe<br/></color> 
+     <img src="ui/icon_maplocations/grassland_europe.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: Birds <i>(Aves)</i><br/>Order: Omnivore <i>(Omnivora)</i><br/>Family: Birds <i>(Aves)</i><br/>Genus: <i></i><br/>Species: <i>J. Flamingo</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/grassland_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun James's Flamingo Facts</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">They Are small.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255"></color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255"></color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255"></color>     
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    To unlock the FlamingoJamess in challenge or campaign games, you must earn a 2-star zoo fame rating for your zoo. 
+   </color>
+   This is a small flamingo from europe. Its diet contains mainly shrimp and water. It lives in the grasslands. It is paler than its cousin the greater flamingo, and smaller. 
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Content provided courtesy of <color r="255" g="231" b="135">Wikipedia</color> James's Flamingo created by Mad Head.
+  </cell>
+ </text>
+</zoopedia_flamingojamess>
+</ZT2Strings>

@@ -1,0 +1,32 @@
+<BFTypedBinder binderType="Emu_Young_F">
+   <types>
+      <entity>
+         <actor>
+            <animal>
+               <Aves>
+                  <Struthioniformes>
+                     <Struthionidae>
+                        <Emu>
+                           <Emu_Young>
+                              <Emu_Young_F/>
+                           </Emu_Young>
+                        </Emu>
+                     </Struthionidae>
+                  </Struthioniformes>
+               </Aves>
+            </animal>
+         </actor>
+      </entity>
+   </types>
+   <instance>
+      <BFGEntity/>
+   </instance>
+   <shared>
+      <UIToggleButton template="adopt">
+         <on>
+            <event msg="ZT_SETPLACEMENTOBJECT" data="BFString" string="Emu_Young_F"/>
+         </on>
+      </UIToggleButton>
+      <BFAIEntityDataShared b_Male="0"/>
+   </shared>
+</BFTypedBinder>

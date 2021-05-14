@@ -1,0 +1,34 @@
+<BFTypedBinder binderType="BearSyrianBrown_Adult_F">
+   <types>
+      <entity>
+         <actor>
+            <animal>
+               <Mammalia>
+                  <Carnivora>
+                     <Ursidae>
+                        <BearSyrianBrown>
+                           <BearSyrianBrown_Adult>
+                              <BearSyrianBrown_Adult_F/>
+                           </BearSyrianBrown_Adult>
+                        </BearSyrianBrown>
+                     </Ursidae>
+                  </Carnivora>
+               </Mammalia>
+            </animal>
+         </actor>
+      </entity>
+   </types>
+   <instance>
+      <BFGEntity/>
+   </instance>
+   <shared>
+      <BFAIEntityDataShared b_Male="0" f_adoptCount="rand(1,1)"/>
+   </shared>
+   <binder>
+      <BFBinder required="1">
+         <instance>
+            <BFAIEntityDataInstance b_Pregnant="false"/>
+         </instance>
+      </BFBinder>
+   </binder>
+</BFTypedBinder>

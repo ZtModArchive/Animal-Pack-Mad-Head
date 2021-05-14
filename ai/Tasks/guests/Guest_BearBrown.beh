@@ -1,0 +1,22 @@
+<BehaviorSets>
+   <BuyBearBrownGift>
+      <subjects>
+         <Guest_Young/>
+      </subjects>
+      <behaviors>
+         <BFBehPlaySet behSet="DockGiftCart"/>
+         <BFBehAttachObject attachEntity="BearBrown_Gift" subjectNode="Bip01 Spine3" detachAction="inventory" container="back_inventory"/>
+         <BFBehAnimate targetAnim="Stand_Turn180"/>
+      </behaviors>
+   </BuyBearBrownGift>
+   <BuyBearBrownGift>
+      <subjects>
+         <Guest_Adult/>
+      </subjects>
+      <behaviors>
+         <BFBehPlaySet behSet="DockGiftCart"/>
+         <BFBehAttachObject attachEntity="BearBrown_Gift_Adult" subjectNode="Bip01 Spine3" detachAction="inventory" container="back_inventory"/>
+         <BFBehAnimate targetAnim="Stand_Turn180"/>
+      </behaviors>
+   </BuyBearBrownGift>
+</BehaviorSets>

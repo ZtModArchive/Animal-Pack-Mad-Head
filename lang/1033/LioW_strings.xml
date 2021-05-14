@@ -1,0 +1,133 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <LioW>White Lion</LioW>
+      <LioW_stt>White Lion</LioW_stt>
+      <LioW_lower>the White Lion</LioW_lower>
+      <LioW_ltt>
+         <color r="255" g="248" b="178">
+            <b>White Lion</b>
+         </color>
+         <br/>
+         Click to select and then place a White Lion, a beautiful white lion.
+      </LioW_ltt>
+      <!--gift names-->
+      <LioW_Gift>White Lion Backpack</LioW_Gift>
+      <LioW_Gift_stt>White Lion Backpack</LioW_Gift_stt>
+      <LioW_Gift_lower>the White Lion Backpack</LioW_Gift_lower>
+      <LioW_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>White Lion Backpack</b>
+         </color>
+         <br/>Guests who enjoy watching the White Lion will buy this gift.
+      </LioW_Gift_ltt>
+</entityname>
+<zoopedia_lionwhite>
+ <entry>Lion, White</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/LioW/LioW_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/endangered.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                      Endangered
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Savannah<br/></color>
+     <img src="ui/icon_biomes/icon_savannah.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Africa<br/></color> 
+     <img src="ui/icon_maplocations/africa.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: Mammal <i>(Mammalia)</i><br/>Order: Carnivore <i>(Carnivora)</i><br/>Family: Big Cats <i>(Panthera)</i><br/>Genus: <i>Panthera Leo</i><br/>Species: <i>White Lion</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/savannah_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun White Lion Facts</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">The white lion is occasionally found in wildlife reserves in South Africa.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">This coloration gives white lions a distinct disadvantage in nature because they are highly visible.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255"></color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255"></color>     
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    To unlock the LioW in challenge or campaign games, you must earn a 2-star zoo fame rating for your zoo. 
+   </color>
+   The white lion is occasionally found in wildlife reserves in South Africa and is a rare color mutation of the Kruger subspecies of lion (Panthera leo krugeri). It has been perpetuated by selective breeding in zoos around the world. White lions are not a separate subspecies and they have never been common in the wild. Regarded as divine by locals, white lions first came to public attention in the 1970s in Chris McBride's book The White Lions of Timbavati. White cubs occasionally turn up among tawny lions in the Timbavati and Kruger National Park regions. Because the gene is recessive and is masked by the normal tawny colour, white lions remain rare in the wild and only occur when two lions carrying the mutant gene are mated together. The greatest population of white lions is in zoos where they are deliberately bred for color. The population of the white lion is unknown but the most recent count was in 2004 and 300 were alive.They are extinct in the wild and have been for 12 years
+
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Content provided courtesy of <color r="255" g="231" b="135">Wikipedia</color> White Lion created by MAD HEAD.
+  </cell>
+ </text>
+</zoopedia_lionwhite>
+</ZT2Strings>

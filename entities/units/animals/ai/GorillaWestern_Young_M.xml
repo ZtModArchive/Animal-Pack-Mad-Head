@@ -1,0 +1,32 @@
+<BFTypedBinder binderType="GorillaWestern_Young_M">
+   <types>
+      <entity>
+         <actor>
+            <animal>
+               <Mammalia>
+                  <Primata>
+                     <Pongidae>
+                        <GorillaWestern>
+                           <GorillaWestern_Young>
+                              <GorillaWestern_Young_M/>
+                           </GorillaWestern_Young>
+                        </GorillaWestern>
+                     </Pongidae>
+                  </Primata>
+               </Mammalia>
+            </animal>
+         </actor>
+      </entity>
+   </types>
+   <instance>
+      <BFGEntity/>
+   </instance>
+   <shared>
+      <UIToggleButton template="adopt">
+         <on>
+            <event msg="ZT_SETPLACEMENTOBJECT" data="BFString" string="GorillaWestern_Young_M"/>
+         </on>
+      </UIToggleButton>
+      <BFAIEntityDataShared b_Male="1"/>
+   </shared>
+</BFTypedBinder>

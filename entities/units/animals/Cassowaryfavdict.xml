@@ -1,0 +1,7 @@
+<BFParticleDictionary>
+   <CassowaryEmote>
+      <Conditions>
+         <BFParticleDefinition xmlFile="entities\units\animals\Cassowary\CassowaryEmote.xml" removeTime="10.0"/>
+      </Conditions>
+   </CassowaryEmote>
+</BFParticleDictionary>

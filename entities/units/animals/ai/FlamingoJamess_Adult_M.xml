@@ -1,0 +1,35 @@
+<BFTypedBinder binderType="FlamingoJamess_Adult_M">
+   <types>
+      <entity>
+         <actor>
+            <animal>
+               <Aves>
+                  <Phoenicopteriformes>
+                     <Phoenicopteridae>
+                        <FlamingoJamess>
+                           <FlamingoJamess_Adult>
+                              <FlamingoJamess_Adult_M/>
+                           </FlamingoJamess_Adult>
+                        </FlamingoJamess>
+                     </Phoenicopteridae>
+                  </Phoenicopteriformes>
+               </Aves>
+            </animal>
+         </actor>
+      </entity>
+   </types>
+   <instance>
+      <BFGEntity/>
+   </instance>
+   <shared>
+      <UIToggleButton template="adopt">
+         <UIAspect>
+            <default image="entities\units\animals\FlamingoJamess\FlamingoJamess_Adult_M_icon.dds"/>
+         </UIAspect>
+         <on>
+            <event msg="ZT_SETPLACEMENTOBJECT" data="BFString" string="FlamingoJamess_Adult_M"/>
+         </on>
+      </UIToggleButton>
+      <BFAIEntityDataShared b_Male="1" f_adoptCount="rand(1,4)"/>
+   </shared>
+</BFTypedBinder>

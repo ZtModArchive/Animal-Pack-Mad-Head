@@ -1,0 +1,7 @@
+<BFParticleDictionary>
+   <SheepBarbaryEmote>
+      <Conditions>
+         <BFParticleDefinition xmlFile="entities\units\animals\SheepBarbary\SheepBarbaryEmote.xml" removeTime="10.0"/>
+      </Conditions>
+   </SheepBarbaryEmote>
+</BFParticleDictionary>

@@ -1,0 +1,22 @@
+<BehaviorSets>
+   <BuyCheetAsGift>
+      <subjects>
+         <Guest_Young/>
+      </subjects>
+      <behaviors>
+         <BFBehPlaySet behSet="DockGiftCart"/>
+         <BFBehAttachObject attachEntity="CheetAs_Gift" subjectNode="Bip01 Spine3" detachAction="inventory" container="back_inventory"/>
+         <BFBehAnimate targetAnim="Stand_Turn180"/>
+      </behaviors>
+   </BuyCheetAsGift>
+   <BuyCheetAsGift>
+      <subjects>
+         <Guest_Adult/>
+      </subjects>
+      <behaviors>
+         <BFBehPlaySet behSet="DockGiftCart"/>
+         <BFBehAttachObject attachEntity="CheetAs_Gift_Adult" subjectNode="Bip01 Spine3" detachAction="inventory" container="back_inventory"/>
+         <BFBehAnimate targetAnim="Stand_Turn180"/>
+      </behaviors>
+   </BuyCheetAsGift>
+</BehaviorSets>

@@ -1,0 +1,7 @@
+<BFParticleDictionary>
+   <LionBarbaryEmote>
+      <Conditions>
+         <BFParticleDefinition xmlFile="entities\units\animals\LionBarbary\LionBarbaryEmote.xml" removeTime="10.0"/>
+      </Conditions>
+   </LionBarbaryEmote>
+</BFParticleDictionary>
